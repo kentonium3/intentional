@@ -1,6 +1,10 @@
 ---
+id: proposal-template
+doc_type: template
+owner: kent
+status: draft
 version: v0.1
-last_updated: {{YYYY-MM-DD}}
+last_updated: 2025-10-22
 ---
 # Proposal Template (Intentional)
 ## Summary
