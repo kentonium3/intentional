@@ -1,0 +1,37 @@
+# OS & editors
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Obsidian vault internals (keep local UI state out of git)
+.obsidian/*
+!.obsidian/snippets/
+!.obsidian/plugins/
+.obsidian/workspace.json
+
+# Node / web tooling
+node_modules/
+dist/
+.build/
+.next/
+*.log
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Design sources
+*.psd
+*.ai
+*.sketch
+*.xcf
+
+# Wix/site exports
+site_export/
+
+# Mac/Windows trash
+.Trashes
+ehthumbs.db
+Icon?
