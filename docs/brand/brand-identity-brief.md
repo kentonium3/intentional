@@ -1,10 +1,10 @@
 ---
-id: brand-identity-brief-v1
-doc_type: strategy
+id: brand-identity-brief
+doc_type: reference
 owner: kent
 status: draft
 last_updated: 2025-10-25
-tags: [intentional, branding, identity]
+tags: [brand, identity, intentional]
 ---
 
 # Brand Identity Brief (v1)

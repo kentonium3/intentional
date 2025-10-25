@@ -386,7 +386,7 @@ This document outlines the Phase 1 website development plan.
 ## References
 
 See also:
-- [Brand Guidelines](branding_tone.md)
+- [Brand Guidelines](brand/brand-voice-and-tone.md)
 - [Copy Overview](copy/overview.md)
 ```
 
