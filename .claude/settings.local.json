@@ -22,7 +22,8 @@
       "Bash(python3:*)",
       "Bash(python scripts/validate_docs.py:*)",
       "Bash(git pull:*)",
-      "Bash(git stash:*)"
+      "Bash(git stash:*)",
+      "Bash(git rm:*)"
     ],
     "deny": [],
     "ask": []
