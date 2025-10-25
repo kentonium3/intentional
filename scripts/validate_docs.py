@@ -32,6 +32,9 @@ def main():
 
     bad = []
     for p in docs_dir.rglob("*.md"):
+        # Skip template files and Obsidian internal files
+        if "_templates" in p.parts or ".obsidian" in p.parts:
+            continue
         txt = p.read_text(encoding="utf-8", errors="ignore")
         fm, body = parse_frontmatter(txt)
         if not fm:
