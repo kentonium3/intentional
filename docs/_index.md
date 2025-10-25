@@ -13,7 +13,7 @@ last_updated: 2025-10-22
 - **Project Hub** → `intentional_launch_project_hub.md`
 - **About** → `Intentional_About.md`
 - **Resume** → `Kent_Gale_Resume.md`
-- **Branding & Tone** → `branding_tone.md`
+- **Branding & Tone** → `brand/brand-voice-and-tone.md`
 - **Intentional Consulting Core** → `intentional_consulting_core.md` _(to be uploaded)_
 - **Intentional Index** → `intentional_index_explained.md` _(to be uploaded)_
 
@@ -27,7 +27,7 @@ last_updated: 2025-10-22
 ### Copy & Branding
 
 - Copy Overview → `copy/overview.md`
-- Branding & Tone → `branding_tone.md`
+- Branding & Tone → `brand/brand-voice-and-tone.md`
 
 ### Sales
 

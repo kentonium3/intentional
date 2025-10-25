@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "branding_tone.md",
+                "file": "_templates/strategy_doc_template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "branding_tone"
+              "title": "strategy_doc_template"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "branding_tone.md",
+                "file": "_templates/strategy_doc_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for branding_tone"
+              "title": "Backlinks for strategy_doc_template"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "branding_tone.md",
+                "file": "_templates/strategy_doc_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from branding_tone"
+              "title": "Outgoing links from strategy_doc_template"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "branding_tone.md",
+                "file": "_templates/strategy_doc_template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of branding_tone"
+              "title": "Outline of strategy_doc_template"
             }
           }
         ]
@@ -170,11 +170,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c800e713bb9a4e4c",
+  "active": "a7aa82800b686d48",
   "lastOpenFiles": [
+    "doc_standards.md.tmp.56540.1761427785317",
+    "intentional_launch_project_hub.md.tmp.56540.1761427491368",
+    "intentional_launch_project_hub.md.tmp.56540.1761427490362",
+    "intentional_launch_project_hub.md.tmp.56540.1761427466216",
+    "_index.md.tmp.56540.1761427456204",
+    "_index.md.tmp.56540.1761427455213",
+    "doc_standards.md.tmp.56540.1761427445460",
+    "brand/brand-identity-brief.md",
+    "brand/brand-voice-and-tone.md",
+    "brand",
+    "brand-identity-brief-v1.md",
+    "doc_standards.md.tmp.56540.1761423537065",
+    "doc_standards.md",
     "_templates/project_plan_template.md",
-    "_templates/strategy_doc_template.md",
+    "branding_tone.md",
+    "_index.md",
     "_templates/frontmatter_template.md",
+    "_templates/strategy_doc_template.md",
     "Intentional_About.md",
     "_templates"
   ]

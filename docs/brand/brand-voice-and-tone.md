@@ -1,9 +1,10 @@
 ---
-id: branding-tone
-doc_type: brand
+id: brand-voice-and-tone
+doc_type: reference
 owner: kent
-status: draft
-last_updated: 2025-10-22
+status: active
+last_updated: 2025-10-25
+tags: [brand, voice, tone, intentional]
 ---
 
 # Voice & Tone (Intentional)

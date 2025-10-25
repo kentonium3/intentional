@@ -109,7 +109,7 @@ It centralizes objectives, deliverables, priorities, timelines, references, and 
 - **Resume** → `docs/resume.md`  _(uploaded; update latest role)_
 - **Intentional Consulting Core** → `docs/intentional_consulting_core.md`
 - **Intentional Index Deck Notes** → `docs/intentional_index_explained.md`
-- **Branding & Tone Guide** → `docs/branding_tone.md` _(to add)_
+- **Branding & Tone Guide** → `docs/brand/brand-voice-and-tone.md`
 - **Website Plan** → `docs/web/website_plan.md` _(new, in Website chat)_
 - **Proposal Template** → `docs/sales/proposal_template.md` _(to add)_
 
@@ -123,7 +123,7 @@ It centralizes objectives, deliverables, priorities, timelines, references, and 
 |---|---|
 | **Website Design & Implementation** | Structure, build, and publish Wix site — see [website_plan](<website_plan.md>) |
 | **Copy Development** | Web copy, proposals, resume, testimonials — see [overview](<overview.md>) |
-| **Branding & Visuals** | Palette/typography/logo, Canva templates — see [branding_tone](<branding_tone.md>) |
+| **Branding & Visuals** | Palette/typography/logo, Canva templates — see [branding_tone](<brand-voice-and-tone.md>) |
 | **Index & Maturity Model** | Rubric, visuals, interactive prototype — see [rubric](<rubric.md>) and [model_overview](<model_overview.md>) |
 | **Proposal & Sales Materials** | Pricing, SOW, PE/VC deck, follow-ups — see [proposal_template](<proposal_template.md>) |
 
@@ -136,7 +136,7 @@ _(Paste chat links or short IDs here once created.)_
 ### Upload & Organize
 
 - [ ] Move **about** → `docs/about.md` and **resume** → `docs/resume.md`
-- [ ] Add **branding_tone.md** (voice, dos/don’ts, sample microcopy)
+- [x] Add **brand/brand-voice-and-tone.md** (voice, dos/don'ts, sample microcopy)
 - [ ] Add **intentional_consulting_core.md** (from your source doc)
 - [ ] Add **intentional_index_explained.md** (deck notes → text)
 
@@ -167,7 +167,7 @@ _(Paste chat links or short IDs here once created.)_
 - [ ] Website: draft homepage hero + 3 proof points
 - [ ] Website: Services outline (3–5 bullets with outcomes)
 - [ ] About page: tighten summary to 80–120 words
-- [ ] Branding: finalize 1-page Voice & Tone (`docs/branding_tone.md`)
+- [x] Branding: finalize 1-page Voice & Tone (`docs/brand/brand-voice-and-tone.md`)
 - [ ] Sales: create proposal skeleton (`docs/sales/proposal_template.md`)
 
 ---
