@@ -9,6 +9,7 @@ status: draft
 last_updated: ${today}
 tags: []
 ---
+
 # ${tp.file.title}
 
 `;

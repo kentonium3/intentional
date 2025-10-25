@@ -1,0 +1,12 @@
+# Exclude Obsidian Templater templates (contain dynamic syntax)
+docs/_templates/
+
+# Exclude Obsidian internal files
+docs/.obsidian/
+
+# Exclude reports and temporary files
+linter-reports/
+LINTER_ALIGNMENT_REPORT.md
+
+# Node modules
+node_modules/

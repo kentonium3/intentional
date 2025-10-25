@@ -13,6 +13,7 @@ After 30 years leading global support organizations, I saw too many SaaS compani
 I founded **Intentional** in 2024 to help change that.
 
 At Intentional, we help B2B SaaS companies:
+
 - **Diagnose and benchmark** their support operations with the **Intentional Index™**, a proprietary maturity model.
 - **Align intentions** across Support, Product, Sales, and Customer Success to create consistent, trustworthy customer experiences.
 - **Turn customer feedback into strategy**, giving Support a measurable voice in roadmap prioritization and investment decisions.

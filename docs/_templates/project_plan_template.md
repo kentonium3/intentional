@@ -9,21 +9,26 @@ status: active
 last_updated: ${today}
 tags: [project, planning]
 ---
+
 # ${tp.file.title}
 
 `;
 %>
 
 ## Deliverables
+
 -
 
 ## Timeline
+
 | Phase | Deliverable | Target Date |
 |--------|-------------|-------------|
 | | | |
 
 ## Risks & Mitigations
+
 -
 
 ## Decision Log
+
 -

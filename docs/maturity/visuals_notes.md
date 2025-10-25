@@ -7,4 +7,5 @@ last_updated: 2025-10-22
 ---
 
 # Visuals Notes
+
 - Diagram ideas, layout decisions, labeling

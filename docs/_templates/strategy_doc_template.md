@@ -9,25 +9,32 @@ status: draft
 last_updated: ${today}
 tags: [strategy, intentional]
 ---
+
 # ${tp.file.title}
 
 `;
 %>
 
 ## Purpose
+
 (What is this strategy or initiative meant to achieve?)
 
 ## Objectives
+
 -
 
 ## Key Results
+
 -
 
 ## Initiatives
+
 -
 
 ## Dependencies
+
 -
 
 ## Next Steps
+
 -
