@@ -289,16 +289,19 @@ docs/
 
 ### Naming Conventions
 
-**Files:**
+### File Naming Policy
 
-- Use lowercase with underscores: `project_plan.md`
-- Or kebab-case: `project-plan.md`
-- Be descriptive and specific
+- **Kebab-case only** for files: `brand-identity-brief.md`, `brand-voice-and-tone.md`.
+  Directories should also use kebab-case where possible.
+- **Do not include version numbers in filenames.** Versioning is handled by:
+  1. **Front-matter** (`status`, `last_updated`)
+  2. **Git history** (diffs, tags, releases)
+- **Avoid dates in filenames.** Use front-matter instead unless the document itself is a dated log.
+- **Examples**
+  - ✅ `brand-identity-brief.md`, `support-ops-maturity-model.md`
+  - ❌ `branding_identity_brief_v1.md`, `support_ops_maturity_model_v2.md`, `2025-10-25-branding.md`
 
-**Directories:**
-
-- Lowercase, single words when possible
-- Use underscores for multi-word: `api_docs/`
+> Migration rule: new/renamed files must follow kebab-case; legacy underscores may be migrated opportunistically.
 
 ### Excluded Directories
 
