@@ -170,8 +170,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a7aa82800b686d48",
+  "active": "c800e713bb9a4e4c",
   "lastOpenFiles": [
+    "_templates/project_plan_template.md",
+    "_templates/strategy_doc_template.md",
+    "_templates/frontmatter_template.md",
     "Intentional_About.md",
     "_templates"
   ]
