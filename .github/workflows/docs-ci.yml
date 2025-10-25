@@ -22,3 +22,11 @@ jobs:
       - name: Validate docs front-matter
         run: |
           python3 scripts/validate_docs.py
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20.x"
+      - name: Install dependencies
+        run: npm install
+      - name: Lint Markdown
+        run: npx markdownlint-cli2
