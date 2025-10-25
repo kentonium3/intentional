@@ -10,7 +10,19 @@
       "Bash(git commit:*)",
       "Bash(git push:*)",
       "Bash(git fetch:*)",
-      "Bash(git checkout:*)"
+      "Bash(git checkout:*)",
+      "Bash(gh:*)",
+      "Bash(git check-ignore:*)",
+      "Bash(cat:*)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "Bash(npx markdownlint-cli2:*)",
+      "Bash(powershell:*)",
+      "Bash(Select-String -Pattern \"Summary|Total|Phase 1\" -Context 0,1)",
+      "Bash(python3:*)",
+      "Bash(python scripts/validate_docs.py:*)",
+      "Bash(git pull:*)",
+      "Bash(git stash:*)"
     ],
     "deny": [],
     "ask": []

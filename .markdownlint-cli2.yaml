@@ -1,0 +1,12 @@
+config:
+  default: true
+  MD013: false     # Disable line-length rule
+  MD033: false     # Allow inline HTML
+  MD041: false     # Allow missing H1
+  MD003: false     # Disable heading style (conflicts with templates)
+  MD036: false     # Disable emphasis-as-heading (false positives)
+globs:
+  - "docs/**/*.md"
+ignores:
+  - "docs/_templates/**"
+  - "docs/.obsidian/**"
