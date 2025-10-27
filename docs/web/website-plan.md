@@ -1,9 +1,9 @@
 ---
-id: website-plan
 doc_type: plan
+id: website-plan
+last_updated: 2025-10-22
 owner: kent
 status: active
-last_updated: 2025-10-22
 ---
 
 # Website Plan (Phase 1)
@@ -19,7 +19,7 @@ last_updated: 2025-10-22
 
 - Front door now, rooms later. Keep copy tight; expand as assets mature.
 
-## Acceptance checklist
+## Acceptance Checklist
 
 - [ ] Mobile-first layout
 - [ ] Clear CTA above fold

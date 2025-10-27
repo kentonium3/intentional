@@ -121,7 +121,7 @@ It centralizes objectives, deliverables, priorities, timelines, references, and 
 
 | Workstream | Description |
 |---|---|
-| **Website Design & Implementation** | Structure, build, and publish Wix site — see [website_plan](<website_plan.md>) |
+| **Website Design & Implementation** | Structure, build, and publish Wix site — see [website-plan](<website-plan.md>) |
 | **Copy Development** | Web copy, proposals, resume, testimonials — see [overview](<overview.md>) |
 | **Branding & Visuals** | Palette/typography/logo, Canva templates — see [branding_tone](<brand-voice-and-tone.md>) |
 | **Index & Maturity Model** | Rubric, visuals, interactive prototype — see [rubric](<rubric.md>) and [model_overview](<model_overview.md>) |
