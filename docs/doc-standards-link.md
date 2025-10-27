@@ -4,9 +4,8 @@ doc_type: meta_reference
 title: Documentation Standards – Canonical Reference
 status: draft
 level: concept
-owners:
-  - Kent Gale
-last_validated: 2025-10-27
+owner: Kent Gale
+last_updated: 2025-10-27
 version: 0.1
 ---
 
