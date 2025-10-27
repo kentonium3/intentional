@@ -1,9 +1,9 @@
 ---
-id: homepage-copy
 doc_type: copy
+id: homepage-copy
+last_updated: 2025-10-22
 owner: kent
 status: draft
-last_updated: 2025-10-22
 ---
 
 # Homepage Copy — Scaffold

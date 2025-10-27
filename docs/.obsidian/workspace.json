@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/strategy_doc_template.md",
+                "file": "doc-standards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "strategy_doc_template"
+              "title": "doc-standards"
             }
           }
         ]
@@ -172,6 +172,9 @@
   },
   "active": "a7aa82800b686d48",
   "lastOpenFiles": [
+    "web/website-plan.md",
+    "web/homepage-copy.md",
+    "_templates/strategy_doc_template.md",
     "doc_standards.md.tmp.56540.1761427785317",
     "intentional_launch_project_hub.md.tmp.56540.1761427491368",
     "intentional_launch_project_hub.md.tmp.56540.1761427490362",
@@ -189,7 +192,6 @@
     "branding_tone.md",
     "_index.md",
     "_templates/frontmatter_template.md",
-    "_templates/strategy_doc_template.md",
     "Intentional_About.md",
     "_templates"
   ]
