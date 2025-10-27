@@ -9,8 +9,6 @@ last_updated: 2025-10-27
 version: 0.1
 ---
 
-# Documentation Standards Reference
-
 The authoritative documentation standards are maintained centrally in **kg-automation**.
 
 **Canonical reference:**
