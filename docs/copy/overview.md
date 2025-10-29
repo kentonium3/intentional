@@ -1,9 +1,13 @@
 ---
-id: copy-overview
+id: overview
+title: Copy Workstream Overview
 doc_type: index
-owner: kent
-status: active
-last_updated: 2025-10-22
+level: concept
+owners: ["@kentonium3"]
+revision: v1.0
+audience: agents_and_humans
+status: approved
+last_updated: '2025-10-29'
 ---
 
 # Copy Workstream Overview

@@ -1,3 +1,15 @@
+---
+id: readme
+title: Intentional — Consultancy Build
+doc_type: readme
+level: concept
+owners: ["@kentonium3"]
+revision: v1.0
+audience: agents_and_humans
+status: approved
+last_updated: '2025-10-29'
+---
+
 # Intentional — Consultancy Build
 
 This repo houses business and project artifacts for launching **Intentional** (SaaS Support Operations).

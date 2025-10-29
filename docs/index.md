@@ -1,9 +1,13 @@
 ---
-id: docs-index
+id: index
+title: Docs Index
 doc_type: index
-owner: kent
-status: active
-last_updated: 2025-10-22
+level: concept
+owners: ["@kentonium3"]
+revision: v1.0
+audience: agents_and_humans
+status: approved
+last_updated: '2025-10-29'
 ---
 
 # Docs Index

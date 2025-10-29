@@ -1,9 +1,13 @@
 ---
-doc_type: copy
 id: homepage-copy
-last_updated: 2025-10-22
-owner: kent
+title: Homepage Copy — Scaffold
+doc_type: note
+level: concept
+owners: ["@kentonium3"]
+revision: v1.0
+audience: agents_and_humans
 status: draft
+last_updated: '2025-10-29'
 ---
 
 # Homepage Copy — Scaffold

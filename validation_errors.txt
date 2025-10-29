@@ -1,0 +1,144 @@
+Using kg-automation Canon v2 @3e587fe
+LINTER_ALIGNMENT_REPORT.md: Missing YAML front-matter
+LINTER_COMPLETION_REPORT.md: Missing YAML front-matter
+README.md: Missing YAML front-matter
+docs\doc-standards-link.md: Missing front-matter key 'owners'
+docs\doc-standards-link.md: Missing front-matter key 'revision'
+docs\doc-standards-link.md: Missing front-matter key 'audience'
+docs\doc-standards-link.md: Invalid doc_type 'meta_reference' (allowed: charter, decision, guide, handbook, index, note, policy, project, readme, reference, runbook, strategy)
+docs\doc-standards-link.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-27'
+docs\doc-standards-link.md: 'id' must be kebab-case, got 'doc_standards_link'
+docs\doc-standards-link.md: 'id' ('doc_standards_link') must match filename stem ('doc-standards-link' from 'doc-standards-link')
+docs\intentional-about.md: Missing front-matter key 'title'
+docs\intentional-about.md: Missing front-matter key 'level'
+docs\intentional-about.md: Missing front-matter key 'owners'
+docs\intentional-about.md: Missing front-matter key 'revision'
+docs\intentional-about.md: Missing front-matter key 'audience'
+docs\intentional-about.md: Invalid doc_type 'copy' (allowed: charter, decision, guide, handbook, index, note, policy, project, readme, reference, runbook, strategy)
+docs\intentional-about.md: Invalid status 'active' (allowed: approved, archived, deprecated, draft, in_review)
+docs\intentional-about.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-22'
+docs\intentional-launch-project-hub.md: Missing front-matter key 'title'
+docs\intentional-launch-project-hub.md: Missing front-matter key 'level'
+docs\intentional-launch-project-hub.md: Missing front-matter key 'owners'
+docs\intentional-launch-project-hub.md: Missing front-matter key 'revision'
+docs\intentional-launch-project-hub.md: Missing front-matter key 'audience'
+docs\intentional-launch-project-hub.md: Invalid doc_type 'status' (allowed: charter, decision, guide, handbook, index, note, policy, project, readme, reference, runbook, strategy)
+docs\intentional-launch-project-hub.md: Invalid status 'active' (allowed: approved, archived, deprecated, draft, in_review)
+docs\intentional-launch-project-hub.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-22'
+docs\intentional-launch-project-hub.md: 'id' ('project-hub') must match filename stem ('intentional-launch-project-hub' from 'intentional-launch-project-hub')
+docs\intentional-values-principles.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-29'
+docs\intentional-values-principles.md: 'id' ('untitled') must match filename stem ('intentional-values-principles' from 'intentional-values-principles')
+docs\kent-gale-resume.md: Missing front-matter key 'title'
+docs\kent-gale-resume.md: Missing front-matter key 'level'
+docs\kent-gale-resume.md: Missing front-matter key 'owners'
+docs\kent-gale-resume.md: Missing front-matter key 'revision'
+docs\kent-gale-resume.md: Missing front-matter key 'audience'
+docs\kent-gale-resume.md: Invalid doc_type 'resume' (allowed: charter, decision, guide, handbook, index, note, policy, project, readme, reference, runbook, strategy)
+docs\kent-gale-resume.md: Invalid status 'active' (allowed: approved, archived, deprecated, draft, in_review)
+docs\kent-gale-resume.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-22'
+docs\_index.md: Missing front-matter key 'title'
+docs\_index.md: Missing front-matter key 'level'
+docs\_index.md: Missing front-matter key 'owners'
+docs\_index.md: Missing front-matter key 'revision'
+docs\_index.md: Missing front-matter key 'audience'
+docs\_index.md: Invalid status 'active' (allowed: approved, archived, deprecated, draft, in_review)
+docs\_index.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-22'
+docs\_index.md: 'id' ('docs-index') must match filename stem ('-index' from '_index')
+index-tool\README.md: Missing YAML front-matter
+product-feedback\methodology.md: Missing YAML front-matter
+support-ops-maturity\README.md: Missing YAML front-matter
+docs\brand\brand-identity-brief.md: Missing front-matter key 'title'
+docs\brand\brand-identity-brief.md: Missing front-matter key 'level'
+docs\brand\brand-identity-brief.md: Missing front-matter key 'owners'
+docs\brand\brand-identity-brief.md: Missing front-matter key 'revision'
+docs\brand\brand-identity-brief.md: Missing front-matter key 'audience'
+docs\brand\brand-identity-brief.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-25'
+docs\brand\brand-voice-and-tone.md: Missing front-matter key 'title'
+docs\brand\brand-voice-and-tone.md: Missing front-matter key 'level'
+docs\brand\brand-voice-and-tone.md: Missing front-matter key 'owners'
+docs\brand\brand-voice-and-tone.md: Missing front-matter key 'revision'
+docs\brand\brand-voice-and-tone.md: Missing front-matter key 'audience'
+docs\brand\brand-voice-and-tone.md: Invalid status 'active' (allowed: approved, archived, deprecated, draft, in_review)
+docs\brand\brand-voice-and-tone.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-25'
+docs\copy\overview.md: Missing front-matter key 'title'
+docs\copy\overview.md: Missing front-matter key 'level'
+docs\copy\overview.md: Missing front-matter key 'owners'
+docs\copy\overview.md: Missing front-matter key 'revision'
+docs\copy\overview.md: Missing front-matter key 'audience'
+docs\copy\overview.md: Invalid status 'active' (allowed: approved, archived, deprecated, draft, in_review)
+docs\copy\overview.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-22'
+docs\copy\overview.md: 'id' ('copy-overview') must match filename stem ('overview' from 'overview')
+docs\index\prototype_notes.md: Missing front-matter key 'title'
+docs\index\prototype_notes.md: Missing front-matter key 'level'
+docs\index\prototype_notes.md: Missing front-matter key 'owners'
+docs\index\prototype_notes.md: Missing front-matter key 'revision'
+docs\index\prototype_notes.md: Missing front-matter key 'audience'
+docs\index\prototype_notes.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-22'
+docs\index\prototype_notes.md: 'id' ('index-prototype-notes') must match filename stem ('prototype-notes' from 'prototype_notes')
+docs\index\rubric.md: Missing front-matter key 'title'
+docs\index\rubric.md: Missing front-matter key 'level'
+docs\index\rubric.md: Missing front-matter key 'owners'
+docs\index\rubric.md: Missing front-matter key 'revision'
+docs\index\rubric.md: Missing front-matter key 'audience'
+docs\index\rubric.md: Invalid doc_type 'framework' (allowed: charter, decision, guide, handbook, index, note, policy, project, readme, reference, runbook, strategy)
+docs\index\rubric.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-22'
+docs\index\rubric.md: 'id' ('index-rubric') must match filename stem ('rubric' from 'rubric')
+docs\maturity\assessment_rubric.md: Missing front-matter key 'title'
+docs\maturity\assessment_rubric.md: Missing front-matter key 'level'
+docs\maturity\assessment_rubric.md: Missing front-matter key 'owners'
+docs\maturity\assessment_rubric.md: Missing front-matter key 'revision'
+docs\maturity\assessment_rubric.md: Missing front-matter key 'audience'
+docs\maturity\assessment_rubric.md: Invalid doc_type 'framework' (allowed: charter, decision, guide, handbook, index, note, policy, project, readme, reference, runbook, strategy)
+docs\maturity\assessment_rubric.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-22'
+docs\maturity\assessment_rubric.md: 'id' ('maturity-assessment-rubric') must match filename stem ('assessment-rubric' from 'assessment_rubric')
+docs\maturity\model_overview.md: Missing front-matter key 'title'
+docs\maturity\model_overview.md: Missing front-matter key 'level'
+docs\maturity\model_overview.md: Missing front-matter key 'owners'
+docs\maturity\model_overview.md: Missing front-matter key 'revision'
+docs\maturity\model_overview.md: Missing front-matter key 'audience'
+docs\maturity\model_overview.md: Invalid doc_type 'framework' (allowed: charter, decision, guide, handbook, index, note, policy, project, readme, reference, runbook, strategy)
+docs\maturity\model_overview.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-22'
+docs\maturity\model_overview.md: 'id' ('maturity-model-overview') must match filename stem ('model-overview' from 'model_overview')
+docs\maturity\signals_diagnostics.md: Missing front-matter key 'title'
+docs\maturity\signals_diagnostics.md: Missing front-matter key 'level'
+docs\maturity\signals_diagnostics.md: Missing front-matter key 'owners'
+docs\maturity\signals_diagnostics.md: Missing front-matter key 'revision'
+docs\maturity\signals_diagnostics.md: Missing front-matter key 'audience'
+docs\maturity\signals_diagnostics.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-22'
+docs\maturity\signals_diagnostics.md: 'id' ('maturity-signals-diagnostics') must match filename stem ('signals-diagnostics' from 'signals_diagnostics')
+docs\maturity\visuals_notes.md: Missing front-matter key 'title'
+docs\maturity\visuals_notes.md: Missing front-matter key 'level'
+docs\maturity\visuals_notes.md: Missing front-matter key 'owners'
+docs\maturity\visuals_notes.md: Missing front-matter key 'revision'
+docs\maturity\visuals_notes.md: Missing front-matter key 'audience'
+docs\maturity\visuals_notes.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-22'
+docs\maturity\visuals_notes.md: 'id' ('maturity-visuals-notes') must match filename stem ('visuals-notes' from 'visuals_notes')
+docs\sales\pricing_framework.md: Missing front-matter key 'title'
+docs\sales\pricing_framework.md: Missing front-matter key 'level'
+docs\sales\pricing_framework.md: Missing front-matter key 'owners'
+docs\sales\pricing_framework.md: Missing front-matter key 'revision'
+docs\sales\pricing_framework.md: Missing front-matter key 'audience'
+docs\sales\pricing_framework.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-22'
+docs\sales\proposal_template.md: Missing front-matter key 'title'
+docs\sales\proposal_template.md: Missing front-matter key 'level'
+docs\sales\proposal_template.md: Missing front-matter key 'owners'
+docs\sales\proposal_template.md: Missing front-matter key 'revision'
+docs\sales\proposal_template.md: Missing front-matter key 'audience'
+docs\sales\proposal_template.md: Invalid doc_type 'template' (allowed: charter, decision, guide, handbook, index, note, policy, project, readme, reference, runbook, strategy)
+docs\sales\proposal_template.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-22'
+docs\web\homepage-copy.md: Missing front-matter key 'title'
+docs\web\homepage-copy.md: Missing front-matter key 'level'
+docs\web\homepage-copy.md: Missing front-matter key 'owners'
+docs\web\homepage-copy.md: Missing front-matter key 'revision'
+docs\web\homepage-copy.md: Missing front-matter key 'audience'
+docs\web\homepage-copy.md: Invalid doc_type 'copy' (allowed: charter, decision, guide, handbook, index, note, policy, project, readme, reference, runbook, strategy)
+docs\web\homepage-copy.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-22'
+docs\web\website-plan.md: Missing front-matter key 'title'
+docs\web\website-plan.md: Missing front-matter key 'level'
+docs\web\website-plan.md: Missing front-matter key 'owners'
+docs\web\website-plan.md: Missing front-matter key 'revision'
+docs\web\website-plan.md: Missing front-matter key 'audience'
+docs\web\website-plan.md: Invalid doc_type 'plan' (allowed: charter, decision, guide, handbook, index, note, policy, project, readme, reference, runbook, strategy)
+docs\web\website-plan.md: Invalid status 'active' (allowed: approved, archived, deprecated, draft, in_review)
+docs\web\website-plan.md: 'last_updated' must be in YYYY-MM-DD format, got '2025-10-22'
+scripts\util\README.md: Missing YAML front-matter

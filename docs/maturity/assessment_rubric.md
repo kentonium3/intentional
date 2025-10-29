@@ -1,9 +1,13 @@
 ---
-id: maturity-assessment-rubric
-doc_type: framework
-owner: kent
+id: assessment-rubric
+title: Maturity Assessment Rubric
+doc_type: reference
+level: reference
+owners: ["@kentonium3"]
+revision: v1.0
+audience: agents_and_humans
 status: draft
-last_updated: 2025-10-22
+last_updated: '2025-10-29'
 ---
 
 # Maturity Assessment Rubric

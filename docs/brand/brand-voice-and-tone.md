@@ -1,9 +1,13 @@
 ---
-doc_type: reference
 id: brand-voice-and-tone
-last_updated: 2025-10-25
-owner: kent
-status: active
+title: Voice & Tone (Intentional)
+doc_type: reference
+level: concept
+owners: ["@kentonium3"]
+revision: v1.0
+audience: agents_and_humans
+status: approved
+last_updated: '2025-10-29'
 tags: [brand, voice, tone, intentional]
 ---
 

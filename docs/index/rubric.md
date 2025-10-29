@@ -1,9 +1,13 @@
 ---
-id: index-rubric
-doc_type: framework
-owner: kent
+id: rubric
+title: Intentional Index — Rubric
+doc_type: reference
+level: reference
+owners: ["@kentonium3"]
+revision: v1.0
+audience: agents_and_humans
 status: draft
-last_updated: 2025-10-22
+last_updated: '2025-10-29'
 ---
 
 # Intentional Index — Rubric (Draft)

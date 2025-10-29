@@ -1,3 +1,15 @@
+---
+id: linter-alignment-report
+title: Linter Alignment Report
+doc_type: note
+level: reference
+owners: ["@kentonium3"]
+revision: v1.0
+audience: agents_and_humans
+status: approved
+last_updated: '2025-10-29'
+---
+
 # Linter Alignment Report
 
 **Date:** 2025-10-25

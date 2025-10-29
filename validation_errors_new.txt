@@ -1,0 +1,6 @@
+Using kg-automation Canon v2 @3e587fe
+docs\_index.md: 'id' must be kebab-case, got '-index'
+index-tool\README.md: 'id' ('index-tool-readme') must match filename stem ('readme' from 'README')
+product-feedback\methodology.md: 'id' ('product-feedback-methodology') must match filename stem ('methodology' from 'methodology')
+support-ops-maturity\README.md: 'id' ('support-ops-maturity-readme') must match filename stem ('readme' from 'README')
+scripts\util\README.md: 'id' ('scripts-util-readme') must match filename stem ('readme' from 'README')
