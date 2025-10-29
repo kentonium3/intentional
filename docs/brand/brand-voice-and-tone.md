@@ -1,9 +1,9 @@
 ---
-id: brand-voice-and-tone
 doc_type: reference
+id: brand-voice-and-tone
+last_updated: 2025-10-25
 owner: kent
 status: active
-last_updated: 2025-10-25
 tags: [brand, voice, tone, intentional]
 ---
 
