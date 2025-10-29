@@ -4,5 +4,6 @@
   "MD022": false, // blank lines around headings
   "MD025": false, // single H1 rule (allow H1 after YAML title etc.)
   "MD032": false, // blanks around lists
-  "MD034": false  // bare URLs
+  "MD034": false, // bare URLs
+  "MD036": false  // emphasis as heading (allow bold text that's not a heading)
 }
