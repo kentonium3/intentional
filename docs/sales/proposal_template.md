@@ -1,10 +1,14 @@
 ---
 id: proposal-template
-doc_type: template
-owner: kent
+title: Proposal Template (Intentional)
+doc_type: reference
+level: reference
 status: draft
-version: v0.1
-last_updated: 2025-10-22
+owners:
+  - "@kent"
+last_updated: "2025-10-22"
+revision: v0.1
+audience: agents_and_humans
 ---
 # Proposal Template (Intentional)
 

@@ -1,9 +1,14 @@
 ---
-id: maturity-signals-diagnostics
+id: signals-diagnostics
+title: Signals & Diagnostics
 doc_type: reference
-owner: kent
+level: reference
 status: draft
-last_updated: 2025-10-22
+owners:
+  - "@kent"
+last_updated: "2025-10-22"
+revision: v1.0
+audience: agents_and_humans
 ---
 
 # Signals & Diagnostics

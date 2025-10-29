@@ -1,9 +1,14 @@
 ---
-id: maturity-model-overview
-doc_type: framework
-owner: kent
+id: model-overview
+title: Support Operations Maturity Model — Overview
+doc_type: reference
+level: reference
 status: draft
-last_updated: 2025-10-22
+owners:
+  - "@kent"
+last_updated: "2025-10-22"
+revision: v1.0
+audience: agents_and_humans
 ---
 
 # Support Operations Maturity Model — Overview

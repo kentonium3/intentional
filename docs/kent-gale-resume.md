@@ -1,9 +1,14 @@
 ---
 id: kent-gale-resume
-doc_type: resume
-owner: kent
-status: active
-last_updated: 2025-10-22
+title: Kent Gale
+doc_type: reference
+level: reference
+status: approved
+owners:
+  - "@kent"
+last_updated: "2025-10-22"
+revision: v1.0
+audience: agents_and_humans
 ---
 
 # Kent Gale

@@ -1,9 +1,14 @@
 ---
-id: index-prototype-notes
+id: prototype-notes
+title: Index Prototype Notes
 doc_type: note
-owner: kent
+level: reference
 status: draft
-last_updated: 2025-10-22
+owners:
+  - "@kent"
+last_updated: "2025-10-22"
+revision: v1.0
+audience: agents_and_humans
 ---
 
 # Index Prototype Notes

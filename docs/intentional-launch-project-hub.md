@@ -1,9 +1,14 @@
 ---
-doc_type: status
-id: project-hub
-last_updated: 2025-10-22
-owner: kent
-status: active
+id: intentional-launch-project-hub
+title: Intentional Launch — Project Hub
+doc_type: project
+level: reference
+status: approved
+owners:
+  - "@kent"
+last_updated: "2025-10-22"
+revision: v1.0
+audience: agents_and_humans
 ---
 
 # Intentional Launch — Project Hub

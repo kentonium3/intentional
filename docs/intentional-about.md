@@ -1,9 +1,14 @@
 ---
 id: intentional-about
-doc_type: copy
-owner: kent
-status: active
-last_updated: 2025-10-22
+title: Founder's Note — Why I Started Intentional
+doc_type: reference
+level: reference
+status: approved
+owners:
+  - "@kent"
+last_updated: "2025-10-22"
+revision: v1.0
+audience: agents_and_humans
 ---
 
 # Founder's Note — Why I Started Intentional

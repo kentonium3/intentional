@@ -1,12 +1,14 @@
 ---
-doc_type: meta_reference
-id: doc_standards_link
-last_updated: 2025-10-27
-level: concept
-owner: Kent Gale
-status: draft
+id: doc-standards-link
 title: Documentation Standards – Canonical Reference
-version: 0.1
+doc_type: reference
+level: concept
+status: draft
+owners:
+  - "@Kent Gale"
+last_updated: "2025-10-27"
+revision: v0.1
+audience: agents_and_humans
 ---
 
 # Doc-standards-link

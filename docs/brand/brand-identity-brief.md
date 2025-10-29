@@ -1,10 +1,18 @@
 ---
-doc_type: reference
 id: brand-identity-brief
-last_updated: 2025-10-25
-owner: kent
+title: Brand Identity Brief (v1)
+doc_type: reference
+level: reference
 status: draft
-tags: [brand, identity, intentional]
+owners:
+  - "@kent"
+last_updated: "2025-10-25"
+revision: v1.0
+audience: agents_and_humans
+tags:
+  - brand
+  - identity
+  - intentional
 ---
 
 # Brand Identity Brief (v1)
