@@ -1,10 +1,13 @@
 ---
 id: proposal-template
-doc_type: template
-owner: kent
+title: Proposal Template (Intentional)
+doc_type: guide
+level: howto
+owners: ["@kentonium3"]
+revision: v1.0
+audience: agents_and_humans
 status: draft
-version: v0.1
-last_updated: 2025-10-22
+last_updated: '2025-10-29'
 ---
 # Proposal Template (Intentional)
 

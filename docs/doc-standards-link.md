@@ -1,13 +1,16 @@
 ---
-id: doc_standards_link
-doc_type: meta_reference
+id: doc-standards-link
 title: Documentation Standards – Canonical Reference
-status: draft
+doc_type: reference
 level: concept
-owner: Kent Gale
-last_updated: 2025-10-27
-version: 0.1
+owners: ["@kentonium3"]
+revision: v1.0
+audience: agents_and_humans
+status: draft
+last_updated: '2025-10-29'
 ---
+
+# Doc-standards-link
 
 The authoritative documentation standards are maintained centrally in **kg-automation**.
 

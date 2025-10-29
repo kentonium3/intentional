@@ -6,7 +6,7 @@ on:
     paths:
       - "docs/**.md"
       - "docs/**/*.md"
-      - "scripts/validate_docs.py"
+      - "tooling/scripts/validate_docs.py"
       - ".github/workflows/docs-ci.yml"
 
 jobs:
@@ -19,9 +19,11 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
+      - name: Install Python dependencies
+        run: pip install pyyaml
       - name: Validate docs front-matter
         run: |
-          python3 scripts/validate_docs.py
+          python tooling/scripts/validate_docs.py
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:

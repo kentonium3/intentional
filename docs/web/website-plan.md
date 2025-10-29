@@ -1,9 +1,13 @@
 ---
-doc_type: plan
 id: website-plan
-last_updated: 2025-10-22
-owner: kent
-status: active
+title: Website Plan (Phase 1)
+doc_type: charter
+level: concept
+owners: ["@kentonium3"]
+revision: v1.0
+audience: agents_and_humans
+status: approved
+last_updated: '2025-10-29'
 ---
 
 # Website Plan (Phase 1)

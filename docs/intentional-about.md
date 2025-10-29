@@ -1,9 +1,13 @@
 ---
 id: intentional-about
-doc_type: copy
-owner: kent
-status: active
-last_updated: 2025-10-22
+title: Founder's Note — Why I Started Intentional
+doc_type: note
+level: concept
+owners: ["@kentonium3"]
+revision: v1.0
+audience: agents_and_humans
+status: approved
+last_updated: '2025-10-29'
 ---
 
 # Founder's Note — Why I Started Intentional

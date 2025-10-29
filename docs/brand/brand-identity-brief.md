@@ -1,9 +1,13 @@
 ---
 id: brand-identity-brief
+title: Brand Identity Brief
 doc_type: reference
-owner: kent
+level: concept
+owners: ["@kentonium3"]
+revision: v1.0
+audience: agents_and_humans
 status: draft
-last_updated: 2025-10-25
+last_updated: '2025-10-29'
 tags: [brand, identity, intentional]
 ---
 
@@ -40,7 +44,7 @@ Define the visual and experiential identity of **Intentional** to ensure consist
 4. **Human** – empathetic tone, accessible visuals.
 5. **Modern** – AI-forward but with restraint and simplicity.
 
-## Design Inspirations (to be expanded)
+## Design Inspirations (to Be expanded)
 
 - Professional services brands known for clarity and restraint (e.g., IDEO, McKinsey Digital, Gainsight).
 - Use of light/dark neutrals with one accent color signaling precision or insight.

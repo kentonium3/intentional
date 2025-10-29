@@ -1,16 +1,20 @@
 ---
-id: project-hub
-doc_type: status
-owner: kent
-status: active
-last_updated: 2025-10-22
+id: intentional-launch-project-hub
+title: Intentional Launch — Project Hub
+doc_type: project
+level: concept
+owners: ["@kentonium3"]
+revision: v1.0
+audience: agents_and_humans
+status: approved
+last_updated: '2025-10-29'
 ---
 
 # Intentional Launch — Project Hub
 
 _Last updated: {{2025-10-22}}_
 
-This is the master status board for launching **Intentional**, a consultancy focused on elevating SaaS Support Operations.  
+This is the master status board for launching **Intentional**, a consultancy focused on elevating SaaS Support Operations.
 It centralizes objectives, deliverables, priorities, timelines, references, and links to specialized chats/workstreams.
 
 ---
@@ -54,7 +58,7 @@ It centralizes objectives, deliverables, priorities, timelines, references, and 
 - **Website (Wix)**: Homepage, Services/Methodology, About, Contact (Calendly).
 - **Branding Package (interim)**: logo/mark (or wordmark), palette, typography, tone guide.
 - **Copy Library (core)**: About, homepage hero, value prop, services blurbs.
-  
+
 ### Phase 2 — Sales Infrastructure
 
 - **Proposal + SOW templates**
@@ -157,12 +161,12 @@ _(Paste chat links or short IDs here once created.)_
 ---
 
 ## 🧭 Guiding Principle
->
+
 > **Front door now, rooms later.** Ship a finished-looking website quickly; expand with maturity model, Index, and content in iterations.
 
 ---
 
-## ⛳ Near-term tasks (this week)
+## ⛳ Near-term Tasks (this week)
 
 - [ ] Website: draft homepage hero + 3 proof points
 - [ ] Website: Services outline (3–5 bullets with outcomes)
