@@ -17,7 +17,7 @@ ROOT = Path('.')
 ERRORS = []
 
 # Canon v2 source (kg-automation pinned SHA)
-KGA_SHA = 'a42f297'
+KGA_SHA = '3e587fe'
 KGA_BASE_URL = f'https://raw.githubusercontent.com/kentonium3/kg-automation/{KGA_SHA}/docs/standards'
 
 # Check for local standards files first
