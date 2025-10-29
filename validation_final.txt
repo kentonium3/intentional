@@ -1,6 +1,0 @@
-Using kg-automation Canon v2 @3e587fe
-docs\_index.md: 'id' ('docs-index') must match filename stem ('-index' from '_index')
-index-tool\README.md: Missing YAML front-matter
-product-feedback\methodology.md: Missing YAML front-matter
-support-ops-maturity\README.md: Missing YAML front-matter
-scripts\util\README.md: Missing YAML front-matter
