@@ -1,0 +1,12 @@
+{
+  // Lint only docs; ignore templates and Obsidian internals
+  "globs": ["docs/**/*.md", "!docs/_templates/**", "!docs/.obsidian/**"],
+  "config": {
+    // Relax cosmetic rules per Canon v2
+    "MD012": false,                            // no-multiple-blanks (allow)
+    "MD022": false,                            // blanks-around-headings (soften)
+    "MD025": { "front_matter_title": "" },     // allow H1 after YAML FM, no enforced title
+    "MD032": false,                            // blanks-around-lists (soften)
+    "MD034": false                             // no-bare-urls (allow in standards pointers)
+  }
+}
