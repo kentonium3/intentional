@@ -1,13 +1,13 @@
 ---
-id: doc-standards-link
-title: Documentation Standards – Canonical Reference
+audience: agents_and_humans
 doc_type: reference
+id: doc-standards-link
+last_updated: '2025-10-29'
 level: concept
 owners: ["@kentonium3"]
 revision: v1.0
-audience: agents_and_humans
 status: draft
-last_updated: '2025-10-29'
+title: Documentation Standards – Canonical Reference
 ---
 
 # Doc-standards-link
