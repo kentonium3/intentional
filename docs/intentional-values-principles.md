@@ -16,3 +16,7 @@ links: []
 # Intentional Values & Principles
 
 <!-- Body -->
+Customers and employees deserve dignity and respect in all interactions. 
+
+Trust is the currency of a mutually beneficial relationship with customers.
+People and their intent form the foundation of an effective service organization.
