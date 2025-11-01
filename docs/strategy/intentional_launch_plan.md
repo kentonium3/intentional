@@ -24,6 +24,7 @@ _with 120-Day Productization Continuation_
 ## Phase 1 — 60-Day Launch Readiness
 
 ### Sprint 1 (Oct 28 – Nov 10 2025) – Core Messaging & Brand Definition
+
 | Deliverable | Description | Type | Status |
 |--------------|-------------|------|--------|
 | **Voice & Tone Guide** | Codified 1-page tone and communication guide (`branding_tone.md`). | Raw Material | Draft |
@@ -34,6 +35,7 @@ _with 120-Day Productization Continuation_
 | **Messaging Framework** | Core differentiators, value pillars, and short-form positioning. | Formed | Draft |
 
 ### Sprint 2 (Nov 11 – Nov 24 2025) – Website & Core Presence
+
 | Deliverable | Description | Type | Status |
 |--------------|-------------|------|--------|
 | **Phase-1 Wix Site** | Homepage, Services, About, Contact pages live. | Presence | Build |
@@ -43,6 +45,7 @@ _with 120-Day Productization Continuation_
 | **Thought Leadership Outline** | Topics + format (LinkedIn / blog cadence). | Decision | Draft |
 
 ### Sprint 3 (Nov 25 – Dec 8 2025) – Packaging & Sales Enablement
+
 | Deliverable | Description | Type | Status |
 |--------------|-------------|------|--------|
 | **PE/VC Referral Deck** | 10–12 slide storyline: problem, solution, differentiation, impact. | Formed | Draft |
@@ -52,6 +55,7 @@ _with 120-Day Productization Continuation_
 | **Resume + LinkedIn Refresh** | Align tone and language with Intentional brand. | Copy | Final |
 
 ### Sprint 4 (Dec 9 – Dec 27 2025) – Testing & Final Polish
+
 | Deliverable | Description | Type | Status |
 |--------------|-------------|------|--------|
 | **Mentor Pitch Sessions (2–3)** | Practice delivery and collect feedback. | Testing | Schedule |
@@ -63,6 +67,7 @@ _with 120-Day Productization Continuation_
 ## Phase 2 — 60–120 Day Productization
 
 ### Sprint 5 (Dec 28 2025 – Jan 17 2026) – Intentional Index Alpha (Spreadsheet)
+
 | Deliverable | Description | Type | Status |
 |--------------|-------------|------|--------|
 | **Intentional Index Spreadsheet Tool v0.1** | Manual weighted rubric assessment prototype. | Formed | Build |
@@ -71,6 +76,7 @@ _with 120-Day Productization Continuation_
 | **Prototype UX Wireframe (Optional)** | Layout concept for web integration. | Concept | Draft |
 
 ### Sprint 6 (Jan 18 – Feb 25 2026) – Feedback Framework & Web Integration
+
 | Deliverable | Description | Type | Status |
 |--------------|-------------|------|--------|
 | **Product Feedback Framework v1.0 (Presentation Deck)** | Full conceptual framework for clients to adopt. | Formed | Build |
@@ -80,12 +86,14 @@ _with 120-Day Productization Continuation_
 | **Thought Leadership Series (3 posts)** | Launch topics on Support Maturity, Index, Feedback Quantification. | Presence | Build |
 
 ## Milestone Summary
+
 | Milestone | Target Date | Outcome |
 |------------|--------------|----------|
 | **Launch-Ready (Day 60)** | Dec 27 2025 | Live website, deck, proposal template, LinkedIn presence, tested pitch |
 | **Productization Alpha (Day 120)** | Feb 25 2026 | Spreadsheet Index tool, Feedback Framework v1.0, spec for online tool MVP |
 
 ## Dependencies
+
 | Deliverable | Depends On | Needed By |
 |--------------|-------------|-----------|
 | Website | Voice & Tone + Brand decisions | Sprint 2 |
