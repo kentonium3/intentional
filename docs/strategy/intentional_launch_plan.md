@@ -1,18 +1,25 @@
 ---
 id: intentional-launch-plan
+title: Intentional – 60-Day Launch Plan
 doc_type: strategy
-owner: kent
-status: active
-last_updated: 2025-11-01
-tags: [launch, roadmap, strategy, intentional]
+level: overview
+status: draft
+owners:
+  - "@kentonium3"
+last_updated: "2025-11-01"
+revision: v0.1
+audience: agents_and_humans
+tags:
+  - launch
+  - roadmap
+  - strategy
+  - intentional
 ---
 
-# Intentional – 60-Day Launch Plan  
+# Intentional – 60-Day Launch Plan
 _with 120-Day Productization Continuation_
 
 **Goal:** Be PE/VC-pitch-ready by Day 60 (Dec 27 2025) and have the Intentional Index spreadsheet prototype and Product Feedback Framework completed by Day 120 (Feb 25 2026).
-
----
 
 ## Phase 1 — 60-Day Launch Readiness
 
@@ -26,8 +33,6 @@ _with 120-Day Productization Continuation_
 | **Visual Identity Decision** | Logo, color palette, typography (Looka + refinements). | Decision | Pending |
 | **Messaging Framework** | Core differentiators, value pillars, and short-form positioning. | Formed | Draft |
 
----
-
 ### Sprint 2 (Nov 11 – Nov 24 2025) – Website & Core Presence
 | Deliverable | Description | Type | Status |
 |--------------|-------------|------|--------|
@@ -36,8 +41,6 @@ _with 120-Day Productization Continuation_
 | **Calendly + Contact Form Integration** | Working lead-capture path. | Tooling | Build |
 | **LinkedIn Company Page Setup** | Establish Intentional's business presence. | Presence | Draft |
 | **Thought Leadership Outline** | Topics + format (LinkedIn / blog cadence). | Decision | Draft |
-
----
 
 ### Sprint 3 (Nov 25 – Dec 8 2025) – Packaging & Sales Enablement
 | Deliverable | Description | Type | Status |
@@ -48,8 +51,6 @@ _with 120-Day Productization Continuation_
 | **Product Feedback Framework v0.1** | Conceptual model (slides) for quantifying feedback ROI. | Concept | Draft |
 | **Resume + LinkedIn Refresh** | Align tone and language with Intentional brand. | Copy | Final |
 
----
-
 ### Sprint 4 (Dec 9 – Dec 27 2025) – Testing & Final Polish
 | Deliverable | Description | Type | Status |
 |--------------|-------------|------|--------|
@@ -58,8 +59,6 @@ _with 120-Day Productization Continuation_
 | **PE/VC Prospecting Plan** | Outreach list + HubSpot sequence. | Decision | Build |
 | **Feedback Summary Report** | Capture findings and actions. | Document | Draft |
 | **60-Day Launch Review** | Confirm external readiness. | Decision | Final |
-
----
 
 ## Phase 2 — 60–120 Day Productization
 
@@ -71,8 +70,6 @@ _with 120-Day Productization Continuation_
 | **Online Tool Requirements Doc** | Product requirements and user flow for web version. | Raw | Draft |
 | **Prototype UX Wireframe (Optional)** | Layout concept for web integration. | Concept | Draft |
 
----
-
 ### Sprint 6 (Jan 18 – Feb 25 2026) – Feedback Framework & Web Integration
 | Deliverable | Description | Type | Status |
 |--------------|-------------|------|--------|
@@ -82,15 +79,11 @@ _with 120-Day Productization Continuation_
 | **Index Demo Video / Walkthrough Deck** | For use in follow-ups and web embedding. | Formed | Draft |
 | **Thought Leadership Series (3 posts)** | Launch topics on Support Maturity, Index, Feedback Quantification. | Presence | Build |
 
----
-
 ## Milestone Summary
 | Milestone | Target Date | Outcome |
 |------------|--------------|----------|
 | **Launch-Ready (Day 60)** | Dec 27 2025 | Live website, deck, proposal template, LinkedIn presence, tested pitch |
 | **Productization Alpha (Day 120)** | Feb 25 2026 | Spreadsheet Index tool, Feedback Framework v1.0, spec for online tool MVP |
-
----
 
 ## Dependencies
 | Deliverable | Depends On | Needed By |
@@ -102,9 +95,7 @@ _with 120-Day Productization Continuation_
 | Feedback Framework | Product Feedback notes + case study content | Sprint 6 |
 | Online Tool Spec | Spreadsheet prototype + learned insights | Sprint 6 |
 
----
-
 ## Key Success Criteria
-- Intentional presents as **credible, differentiated, and PE/VC-ready** by Dec 27 2025.  
-- Spreadsheet Index Tool usable with clients by Jan 17 2026.  
+- Intentional presents as credible, differentiated, and PE/VC-ready by Dec 27 2025.
+- Spreadsheet Index Tool usable with clients by Jan 17 2026.
 - Product Feedback Framework and online tool spec complete by Feb 25 2026, enabling future web integration.
