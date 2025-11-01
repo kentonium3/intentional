@@ -21,6 +21,10 @@ last_updated: '2025-10-29'
 - **Intentional Consulting Core** → `intentional_consulting_core.md` _(to be uploaded)_
 - **Intentional Index** → `intentional_index_explained.md` _(to be uploaded)_
 
+## Strategy
+
+- **60-Day Launch Plan** → `strategy/intentional_launch_plan.md`
+
 ## Workstreams
 
 ### Website
