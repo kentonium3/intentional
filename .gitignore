@@ -5,10 +5,14 @@ Thumbs.db
 *.swo
 
 # Obsidian vault internals (keep local UI state out of git)
-.obsidian/*
-!.obsidian/snippets/
-!.obsidian/plugins/
-.obsidian/workspace.json
+docs/.obsidian/*
+!docs/.obsidian/snippets/
+!docs/.obsidian/plugins/
+docs/.obsidian/workspace.json
+docs/.obsidian/hotkeys.json
+
+# Note: docs/.obsidian-shared/ is tracked (contains hotkeys.example.json)
+# Note: docs/.obsidian/plugins/templater-obsidian/data.json is tracked
 
 # Node / web tooling
 node_modules/
