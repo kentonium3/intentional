@@ -1,13 +1,22 @@
 ---
 id: intentional-launch-plan
+title: Intentional – 60-Day Launch Plan
 doc_type: strategy
-owner: kent
-status: active
-last_updated: 2025-11-01
-tags: [launch, roadmap, strategy, intentional]
+level: overview
+status: draft
+owners:
+  - "@kentonium3"
+last_updated: "2025-11-01"
+revision: v0.1
+audience: agents_and_humans
+tags:
+  - launch
+  - roadmap
+  - strategy
+  - intentional
 ---
 
-# Intentional – 60-Day Launch Plan  
+# Intentional – 60-Day Launch Plan
 _with 120-Day Productization Continuation_
 
 **Goal:** Be PE/VC-pitch-ready by Day 60 (Dec 27 2025) and have the Intentional Index spreadsheet prototype and Product Feedback Framework completed by Day 120 (Feb 25 2026).
