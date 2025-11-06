@@ -1,13 +1,13 @@
 ---
-id: intentional-launch-project-hub
-title: Intentional Launch — Project Hub
+audience: agents_and_humans
 doc_type: project
+id: intentional-launch-project-hub
+last_updated: '2025-10-29'
 level: concept
 owners: ["@kentonium3"]
 revision: v1.0
-audience: agents_and_humans
 status: approved
-last_updated: '2025-10-29'
+title: Intentional Launch — Project Hub
 ---
 
 # Intentional Launch — Project Hub

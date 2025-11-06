@@ -1,22 +1,18 @@
 ---
-id: intentional-launch-plan
-title: Intentional – 60-Day Launch Plan
-doc_type: strategy
-level: overview
-status: draft
-owners:
-  - "@kentonium3"
-last_updated: "2025-11-01"
-revision: v0.1
 audience: agents_and_humans
-tags:
-  - launch
-  - roadmap
-  - strategy
-  - intentional
+doc_type: strategy
+id: intentional-launch-plan
+last_updated: "2025-11-01"
+level: overview
+owners: ["@kentonium3"]
+revision: v0.1
+status: draft
+tags: [launch, roadmap, strategy, intentional]
+title: Intentional – 60-Day Launch Plan
 ---
 
 # Intentional – 60-Day Launch Plan
+
 _with 120-Day Productization Continuation_
 
 **Goal:** Be PE/VC-pitch-ready by Day 60 (Dec 27 2025) and have the Intentional Index spreadsheet prototype and Product Feedback Framework completed by Day 120 (Feb 25 2026).
@@ -104,6 +100,7 @@ _with 120-Day Productization Continuation_
 | Online Tool Spec | Spreadsheet prototype + learned insights | Sprint 6 |
 
 ## Key Success Criteria
-- Intentional presents as credible, differentiated, and PE/VC-ready by Dec 27 2025.
+
+- Intentional presents as **credible, differentiated, and PE/VC-ready** by Dec 27 2025.
 - Spreadsheet Index Tool usable with clients by Jan 17 2026.
 - Product Feedback Framework and online tool spec complete by Feb 25 2026, enabling future web integration.

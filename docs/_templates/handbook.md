@@ -19,6 +19,6 @@ aliases: []
 links: []
 ---
 
-# <%* tR += title %>
+# <%* tR += Title %>
 
 <!-- Body -->
