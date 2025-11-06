@@ -2,7 +2,7 @@
 audience: agents_and_humans
 doc_type: reference
 id: brand-identity-brief
-last_updated: '2025-11-06'
+last_updated: 2025-11-06
 level: concept
 owner: kent
 revision: v1.0
