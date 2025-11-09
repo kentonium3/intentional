@@ -260,7 +260,7 @@ The purpose of this document is to be a comprehensive source for AI assisted gen
 ## Your Professional Background and Expertise {#how-you-measure-success}
 
 * See resume \[link\]
-* 
+*
 
 ## Relevant Certifications or Partnerships {#how-you-measure-success}
 
@@ -272,7 +272,7 @@ The purpose of this document is to be a comprehensive source for AI assisted gen
 
 ## Professional Recommendations {#professional-recommendations}
 
-* 
+*
 
 # Client Information {#how-you-measure-success}
 

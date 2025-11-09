@@ -1,20 +1,20 @@
 ---
-id: intentional-about
-title: Founder's Note — Why I Started Intentional
+audience: agents_and_humans
 doc_type: note
+id: intentional-about
+last_updated: '2025-10-29'
 level: concept
 owners: ["@kentonium3"]
 revision: v1.0
-audience: agents_and_humans
 status: approved
-last_updated: '2025-10-29'
+title: "Founder's Note — Why I Started Intentional"
 ---
 
 # Founder's Note — Why I Started Intentional
 
 After 30 years leading global support organizations, I saw too many SaaS companies treat Support as a cost center rather than a **strategic driver of retention and growth**. The truth is, Support speaks with more customers every day than any other function — hearing firsthand what works, what doesn’t, and what customers really value. That makes Support an **invaluable source of decision-making insight** for Product, Marketing, and every customer-facing team.
 
-I founded **Intentional** in 2024 to help change that.
+I founded **Intentional** in 2025 to help change that.
 
 At Intentional, we help B2B SaaS companies:
 

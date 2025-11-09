@@ -1,13 +1,13 @@
 ---
-id: kent-gale-resume
-title: Kent Gale Resume
+audience: agents_and_humans
 doc_type: note
+id: kent-gale-resume
+last_updated: '2025-10-29'
 level: reference
 owners: ["@kentonium3"]
 revision: v1.0
-audience: agents_and_humans
 status: approved
-last_updated: '2025-10-29'
+title: Kent Gale Resume
 ---
 
 # Kent Gale

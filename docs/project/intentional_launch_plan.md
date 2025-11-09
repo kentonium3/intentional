@@ -1,21 +1,49 @@
 ---
 audience: agents_and_humans
-doc_type: strategy
+doc_type: project
 id: intentional-launch-plan
-last_updated: "2025-11-01"
+last_updated: "2025-11-06"
 level: overview
 owners: ["@kentonium3"]
-revision: v0.1
-status: draft
-tags: [launch, roadmap, strategy, intentional]
-title: Intentional – 60-Day Launch Plan
+revision: v0.2
+status: approved
+tags: [launch, roadmap, strategy, intentional, project-hub]
+title: Intentional Launch Plan & Project Hub
 ---
 
-# Intentional – 60-Day Launch Plan
+# Intentional Launch Plan & Project Hub
 
-_with 120-Day Productization Continuation_
+_60-Day Launch Plan with 120-Day Productization Continuation_
 
 **Goal:** Be PE/VC-pitch-ready by Day 60 (Dec 27 2025) and have the Intentional Index spreadsheet prototype and Product Feedback Framework completed by Day 120 (Feb 25 2026).
+
+---
+
+## 🧭 Top-Level Objectives
+
+1. **Establish market presence and credibility**
+   - Live, credible website (Wix) with PE/VC-friendly messaging.
+   - Coherent branding (visual + tone).
+
+2. **Productize the Intentional Index**
+   - Clear rubric + maturity model visuals.
+   - Online self-assessment (lead gen).
+
+3. **Secure first client engagements**
+   - Proposal template, pricing, PE/VC referral deck.
+   - Prospecting sequences and follow-ups.
+
+4. **Build the growth foundation**
+   - Reusable copy library (web, proposals, profiles, thought leadership).
+   - Light, professional systems (HubSpot, Calendly, LinkedIn).
+
+---
+
+## 🧭 Guiding Principle
+
+> **Front door now, rooms later.** Ship a finished-looking website quickly; expand with maturity model, Index, and content in iterations.
+
+---
 
 ## Phase 1 — 60-Day Launch Readiness
 
@@ -23,8 +51,8 @@ _with 120-Day Productization Continuation_
 
 | Deliverable | Description | Type | Status |
 |--------------|-------------|------|--------|
-| **Voice & Tone Guide** | Codified 1-page tone and communication guide (`branding_tone.md`). | Raw Material | Draft |
-| **Intentional Values & Principles Doc** | Defines guiding beliefs, behavioral principles, and cultural foundation. | Raw Material | Draft |
+| **Voice & Tone Guide** | Codified 1-page tone and communication guide (`branding_tone.md`). | Raw Material | Final |
+| **Intentional Values & Principles Doc** | Defines guiding beliefs, behavioral principles, and cultural foundation. | Raw Material | Final |
 | **About / Founder's Note Copy** | Finalized from `Intentional_About.md` and resume. | Copy | Final |
 | **Homepage Messaging Scaffold** | Hero, subhead, proof points, CTA. | Copy | Draft |
 | **Visual Identity Decision** | Logo, color palette, typography (Looka + refinements). | Decision | Pending |
@@ -104,3 +132,41 @@ _with 120-Day Productization Continuation_
 - Intentional presents as **credible, differentiated, and PE/VC-ready** by Dec 27 2025.
 - Spreadsheet Index Tool usable with clients by Jan 17 2026.
 - Product Feedback Framework and online tool spec complete by Feb 25 2026, enabling future web integration.
+
+---
+
+## ⚙️ Systems & Services
+
+| System | Purpose | Notes |
+|---|---|---|
+| Google Workspace | Email, Docs, Sheets | <kent@intentional.biz> |
+| GoDaddy | Domain & DNS | intentional.biz |
+| Wix | Website | Phase-1 site |
+| Looka | Brand starter | Evaluate vs final |
+| Canva | Collateral | Proposals, decks |
+| HubSpot | CRM | Start simple |
+| Calendly | Scheduling | calendly.com/kentgale |
+| LinkedIn | Marketing | Company page TBD |
+| Obsidian | Knowledge hub | Primary control center |
+
+---
+
+## 🔗 Workstreams / Documentation Links
+
+| Workstream | Description |
+|---|---|
+| **Website Design & Implementation** | Structure, build, and publish Wix site — see [website-plan](<website-plan.md>) |
+| **Copy Development** | Web copy, proposals, resume, testimonials — see [overview](<overview.md>) |
+| **Branding & Visuals** | Palette/typography/logo, Canva templates — see [brand-voice-and-tone](<brand-voice-and-tone.md>) |
+| **Index & Maturity Model** | Rubric, visuals, interactive prototype — see [assessment_rubric](<assessment_rubric.md>) and [model_overview](<model_overview.md>) |
+| **Proposal & Sales Materials** | Pricing, SOW, PE/VC deck, follow-ups — see [proposal_template](<proposal_template.md>) |
+
+---
+
+## 🧭 Decision Log
+
+- 2025-11-06: Consolidated project hub into main launch plan document
+- 2025-11-06: Moved intentional_launch_plan.md to project directory
+- 2025-10-22: Initialized repo structure with normalized directories and placeholder files
+- 2025-10-22: Adopted LF line endings via .gitattributes for cross-platform compatibility
+- 2025-10-22: Added YAML front-matter to all docs for metadata consistency
